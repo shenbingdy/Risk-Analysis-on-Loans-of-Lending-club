@@ -42,6 +42,7 @@ Data Mining and Model Build
 We use xgboost data models to predict the results and utilized multiple assessment parameters to determine the most successful model, to include: Confusion Matrix (Accuracy, Sensitivity and Specificity) Receiver Operating Characteristic (ROC)
 
 1 We train the data with simple model
+
 ![alt text](https://github.com/shenbingdy/Risk-Analysis-on-Loans-of-Lending-club/blob/master/data/roc1.png)
 
 2 We get the best parameters by using BayesianOptimization
